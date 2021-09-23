@@ -1,0 +1,57 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'moduloFonte1.0.pdsprj'.
+CADCAM generated at 06:42:13 on sexta-feira, 17 de setembro de 2021.
+
+File List
+---------
+Top Copper              : moduloFonte1.0 - CADCAM Top Copper.TXT
+Bottom Copper           : moduloFonte1.0 - CADCAM Bottom Copper.TXT
+Top Silk Screen         : moduloFonte1.0 - CADCAM Top Silk Screen.TXT
+Bottom Silk Screen      : moduloFonte1.0 - CADCAM Bottom Silk Screen.TXT
+Top Solder Resist       : moduloFonte1.0 - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : moduloFonte1.0 - CADCAM Bottom Solder Resist.TXT
+Bottom SMT Paste Mask   : moduloFonte1.0 - CADCAM Bottom SMT Paste Mask.TXT
+Mechanical 1            : moduloFonte1.0 - CADCAM Mechanical 1.TXT
+Drill                   : moduloFonte1.0 - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	SQUARE  S=2.03mm                                                          FLASH
+D11	DIL     W=2.54mm              H=1.52mm              C=0.3mm               FLASH
+D12	CIRCLE  D=2.29mm                                                          FLASH
+D13	CIRCLE  D=2.03mm                                                          FLASH
+D14	SQUARE  S=1.52mm                                                          FLASH
+D15	CIRCLE  D=0.2mm                                                           DRAW
+D16	CIRCLE  D=1.52mm                                                          DRAW
+D17	CIRCLE  D=1.27mm                                                          DRAW
+D18	CIRCLE  D=1.78mm                                                          DRAW
+D19	CIRCLE  D=0.64mm                                                          DRAW
+D70	CIRCLE  D=0.76mm                                                          DRAW
+D71	CIRCLE  D=1.02mm                                                          DRAW
+D20	CIRCLE  D=0.51mm                                                          DRAW
+D21	CIRCLE  D=0.38mm                                                          DRAW
+D22	CIRCLE  D=0.03175mm                                                       DRAW
+D23	CIRCLE  D=0.25mm                                                          DRAW
+D24	RECT    W=1.02mm              H=1.52mm                                    FLASH
+D25	RECT    W=1.02mm              H=1.27mm                                    FLASH
+D26	CIRCLE  D=0.03mm                                                          DRAW
+D27	CIRCLE  D=2.54mm                                                          FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	1.02mm (0-15) Plated
+T02	1mm (0-15) Plated
+T03	0.76mm (0-15) Plated
+
+
+[END OF FILE]
