@@ -4,7 +4,7 @@ LABCENTER PROTEUS TOOL INFORMATION FILE
 In case of difficulty, please e-mail support@labcenter.co.uk
 
 Tool set up for Proteus layout 'moduloInterface1.0.pdsprj'.
-CADCAM generated at 01:26:31 on quinta-feira, 23 de setembro de 2021.
+CADCAM generated at 00:16:41 on terça-feira, 28 de setembro de 2021.
 
 File List
 ---------
