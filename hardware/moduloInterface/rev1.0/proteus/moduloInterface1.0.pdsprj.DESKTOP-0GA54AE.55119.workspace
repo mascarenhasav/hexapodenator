@@ -11,7 +11,7 @@
     <up x="0" y="707106" z="707106"/>
    </camera>
   </WINDOW>
-  <WINDOW type="default" module="GVIEW"/>
+  <WINDOW type="default" module="BOM"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI/>
