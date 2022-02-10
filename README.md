@@ -1,5 +1,5 @@
 # hexapodenator
-Hardware e Software para controle de robo hexapode
+Hardware for hexapod robot control
 
 The hardware was designed, thinking in a modular architecture, containing:
 
